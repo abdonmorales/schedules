@@ -1,0 +1,168 @@
+[
+    {
+        "coursename": "M  408C DIFFEREN AND INTEGRAL CALCULUS",
+        "datetimearr": [
+            [
+                "T",
+                [
+                    "14:00",
+                    "15:30"
+                ],
+                "GSB 2.126"
+            ],
+            [
+                "TH",
+                [
+                    "14:00",
+                    "15:30"
+                ],
+                "GSB 2.126"
+            ],
+            [
+                "M",
+                [
+                    "14:00",
+                    "15:00"
+                ],
+                "CPE 2.206"
+            ],
+            [
+                "W",
+                [
+                    "14:00",
+                    "15:00"
+                ],
+                "CPE 2.206"
+            ]
+        ],
+        "link": "https://utdirect.utexas.edu/apps/registrar/course_schedule/20242/53170/",
+        "profname": "Reyes",
+        "status": "waitlisted",
+        "unique": "53170"
+    },
+    {
+        "coursename": "ECO  304L INTRODUCTION TO MACROECONOMICS",
+        "datetimearr": [
+            [
+                "T",
+                [
+                    "11:00",
+                    "12:30"
+                ],
+                "JES A121A"
+            ],
+            [
+                "TH",
+                [
+                    "11:00",
+                    "12:30"
+                ],
+                "JES A121A"
+            ]
+        ],
+        "link": "https://utdirect.utexas.edu/apps/registrar/course_schedule/20242/33650/",
+        "profname": "Geerling",
+        "status": "closed",
+        "unique": "33650"
+    },
+    {
+        "coursename": "G E  107C SUPPL INSTRUCTION FOR M 408C",
+        "datetimearr": [
+            [
+                "M",
+                [
+                    "13:00",
+                    "14:00"
+                ],
+                "ECJ 1.312"
+            ],
+            [
+                "W",
+                [
+                    "13:00",
+                    "14:00"
+                ],
+                "ECJ 1.312"
+            ]
+        ],
+        "link": "https://utdirect.utexas.edu/apps/registrar/course_schedule/20242/13855/",
+        "profname": "Speitel",
+        "status": "open",
+        "unique": "13855"
+    },
+    {
+        "coursename": "C S  312 INTRODUCTION TO PROGRAMMING",
+        "datetimearr": [
+            [
+                "M",
+                [
+                    "10:00",
+                    "11:00"
+                ],
+                "GDC 2.216"
+            ],
+            [
+                "W",
+                [
+                    "10:00",
+                    "11:00"
+                ],
+                "GDC 2.216"
+            ],
+            [
+                "F",
+                [
+                    "10:00",
+                    "11:00"
+                ],
+                "GDC 2.216"
+            ],
+            [
+                "M",
+                [
+                    "09:00",
+                    "10:00"
+                ],
+                "GDC 2.410"
+            ]
+        ],
+        "link": "https://utdirect.utexas.edu/apps/registrar/course_schedule/20242/50740/",
+        "profname": "Ramsey",
+        "status": "closed",
+        "unique": "50740"
+    },
+    {
+        "coursename": "ECE  306 INTRODUCTION TO COMPUTING         ",
+        "datetimearr": [
+            [
+                "M",
+                [
+                    "15:00",
+                    "16:30"
+                ],
+                "CPE 2.214"
+            ],
+            [
+                "W",
+                [
+                    "15:00",
+                    "16:30"
+                ],
+                "CPE 2.214"
+            ],
+            [
+                "F",
+                [
+                    "12:00",
+                    "13:00"
+                ],
+                "ECJ 1.304"
+            ]
+        ],
+        "link": "https://utdirect.utexas.edu/apps/registrar/course_schedule/20242/16595/",
+        "profname": "Telang",
+        "registerlink": "https://utdirect.utexas.edu/registration/registration.WBX?s_ccyys=20242&s_af_unique=16595",
+        "status": "open; reserved",
+        "unique": "16595"
+    }
+]
